@@ -121,3 +121,11 @@ document.
    * - s10 IOPLL
      - 1
      - 0x14
+
+   * - HE-CPRI Generator Analyzer
+     - 1
+     - 0x15
+
+   * - CPRI IP
+     - 1
+     - 0x16
