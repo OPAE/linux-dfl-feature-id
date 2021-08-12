@@ -125,3 +125,7 @@ document.
    * - s10 IOPLL
      - 1
      - 0x14
+
+   * - ToD Driver
+     - 0
+     - 0x23
